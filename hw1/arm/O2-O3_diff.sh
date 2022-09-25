@@ -1,0 +1,9 @@
+gcc drystone_arm.c -o O2-O3_diff/test1.out -O3 -fno-gcse-after-reload
+gcc drystone_arm.c -o O2-O3_diff/test2.out -O3 -fno-inline-functions
+gcc drystone_arm.c -o O2-O3_diff/test3.out -O3 -fno-ipa-cp-clone
+gcc drystone_arm.c -o O2-O3_diff/test4.out -O3 -fno-predictive-commoning
+gcc drystone_arm.c -o O2-O3_diff/test5.out -O3 -fno-tree-loop-distribute-patterns
+gcc drystone_arm.c -o O2-O3_diff/test6.out -O3 -fno-tree-loop-vectorize
+gcc drystone_arm.c -o O2-O3_diff/test7.out -O3 -fno-tree-partial-pre
+gcc drystone_arm.c -o O2-O3_diff/test8.out -O3 -fno-tree-slp-vectorize
+gcc drystone_arm.c -o O2-O3_diff/test9.out -O3 -fno-unswitch-loops

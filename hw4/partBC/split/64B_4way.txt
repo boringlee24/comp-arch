@@ -1,0 +1,82 @@
+---Dinero IV cache simulator, version 7
+---Written by Jan Edler and Mark D. Hill
+---Copyright (C) 1997 NEC Research Institute, Inc. and Mark D. Hill.
+---All rights reserved.
+---Copyright (C) 1985, 1989 Mark D. Hill.  All rights reserved.
+---See -copyright option for details
+
+---Summary of options (-help option gives usage information).
+
+-l1-isize 8192
+-l1-dsize 8192
+-l1-ibsize 64
+-l1-dbsize 64
+-l1-isbsize 64
+-l1-dsbsize 64
+-l1-iassoc 4
+-l1-dassoc 4
+-l1-irepl l
+-l1-drepl l
+-l1-ifetch d
+-l1-dfetch d
+-l1-dwalloc a
+-l1-dwback a
+-l1-iccc
+-l1-dccc
+-skipcount 0
+-flushcount 0
+-maxcount 0
+-stat-interval 0
+-informat d
+-on-trigger 0x0
+-off-trigger 0x0
+
+---Simulation begins.
+---Simulation complete.
+l1-icache
+ Metrics		      Total	      Instrn	       Data	       Read	      Write	       Misc
+ -----------------	      ------	      ------	      ------	      ------	      ------	      ------
+ Demand Fetches		      559159	      559159	           0	           0	           0	           0
+  Fraction of total	      1.0000	      1.0000	      0.0000	      0.0000	      0.0000	      0.0000
+
+ Demand Misses		       20496	       20496	           0	           0	           0	           0
+  Demand miss rate	      0.0367	      0.0367	      0.0000	      0.0000	      0.0000	      0.0000
+   Compulsory misses	        1563	        1563	           0	           0	           0	           0
+   Capacity misses	       16712	       16712	           0	           0	           0	           0
+   Conflict misses	        2221	        2221	           0	           0	           0	           0
+   Compulsory fraction	      0.0763	      0.0763	      0.0000	      0.0000	      0.0000	      0.0000
+   Capacity fraction	      0.8154	      0.8154	      0.0000	      0.0000	      0.0000	      0.0000
+   Conflict fraction	      0.1084	      0.1084	      0.0000	      0.0000	      0.0000	      0.0000
+
+ Multi-block refs                 0
+ Bytes From Memory	     1311744
+ ( / Demand Fetches)	      2.3459
+ Bytes To Memory	           0
+ ( / Demand Writes)	      0.0000
+ Total Bytes r/w Mem	     1311744
+ ( / Demand Fetches)	      2.3459
+
+l1-dcache
+ Metrics		      Total	      Instrn	       Data	       Read	      Write	       Misc
+ -----------------	      ------	      ------	      ------	      ------	      ------	      ------
+ Demand Fetches		      467428	           0	      467428	      288238	      179190	           0
+  Fraction of total	      1.0000	      0.0000	      1.0000	      0.6166	      0.3834	      0.0000
+
+ Demand Misses		       32670	           0	       32670	       22668	       10002	           0
+  Demand miss rate	      0.0699	      0.0000	      0.0699	      0.0786	      0.0558	      0.0000
+   Compulsory misses	       14754	           0	       14754	       10049	        4705	           0
+   Capacity misses	       14333	           0	       14333	        9770	        4563	           0
+   Conflict misses	        3583	           0	        3583	        2849	         734	           0
+   Compulsory fraction	      0.4516	      0.0000	      0.4516	      0.4433	      0.4704	      0.0000
+   Capacity fraction	      0.4387	      0.0000	      0.4387	      0.4310	      0.4562	      0.0000
+   Conflict fraction	      0.1097	      0.0000	      0.1097	      0.1257	      0.0734	      0.0000
+
+ Multi-block refs                 0
+ Bytes From Memory	     2090880
+ ( / Demand Fetches)	      4.4732
+ Bytes To Memory	     1202304
+ ( / Demand Writes)	      6.7097
+ Total Bytes r/w Mem	     3293184
+ ( / Demand Fetches)	      7.0453
+
+---Execution complete.

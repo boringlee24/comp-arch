@@ -1,0 +1,27 @@
+test1
+Dhrystone time for 200000000 passes = 5
+This machine benchmarks at 40000000 dhrystones/second
+test2
+Dhrystone time for 200000000 passes = 9
+This machine benchmarks at 22222222 dhrystones/second
+test3
+Dhrystone time for 200000000 passes = 5
+This machine benchmarks at 40000000 dhrystones/second
+test4
+Dhrystone time for 200000000 passes = 5
+This machine benchmarks at 40000000 dhrystones/second
+test5
+Dhrystone time for 200000000 passes = 4
+This machine benchmarks at 50000000 dhrystones/second
+test6
+Dhrystone time for 200000000 passes = 5
+This machine benchmarks at 40000000 dhrystones/second
+test7
+Dhrystone time for 200000000 passes = 5
+This machine benchmarks at 40000000 dhrystones/second
+test8
+Dhrystone time for 200000000 passes = 5
+This machine benchmarks at 40000000 dhrystones/second
+test9
+Dhrystone time for 200000000 passes = 5
+This machine benchmarks at 40000000 dhrystones/second

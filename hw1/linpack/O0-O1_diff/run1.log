@@ -1,0 +1,672 @@
+test1
+18 September 2019 09:00:24 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.450000   0.010000   0.460000  1453.623188   0.001376   8.214286
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:25 AM
+test2
+18 September 2019 09:00:25 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.460000   0.000000   0.460000  1453.623188   0.001376   8.214286
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:25 AM
+test3
+18 September 2019 09:00:25 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.460000   0.000000   0.460000  1453.623188   0.001376   8.214286
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:26 AM
+test4
+18 September 2019 09:00:26 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.460000   0.000000   0.460000  1453.623188   0.001376   8.214286
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:27 AM
+test5
+18 September 2019 09:00:27 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.480000   0.010000   0.490000  1364.625850   0.001466   8.750000
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:27 AM
+test6
+18 September 2019 09:00:27 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.460000   0.000000   0.460000  1453.623188   0.001376   8.214286
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:28 AM
+test7
+18 September 2019 09:00:28 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.450000   0.000000   0.450000  1485.925926   0.001346   8.035714
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:28 AM
+test8
+18 September 2019 09:00:28 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.450000   0.000000   0.450000  1485.925926   0.001346   8.035714
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:29 AM
+test9
+18 September 2019 09:00:29 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.450000   0.000000   0.450000  1485.925926   0.001346   8.035714
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:29 AM
+test10
+18 September 2019 09:00:29 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.450000   0.000000   0.450000  1485.925926   0.001346   8.035714
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:30 AM
+test11
+18 September 2019 09:00:30 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.450000   0.000000   0.450000  1485.925926   0.001346   8.035714
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:30 AM
+test12
+18 September 2019 09:00:30 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.470000   0.000000   0.470000  1422.695035   0.001406   8.392857
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:31 AM
+test13
+18 September 2019 09:00:31 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.450000   0.010000   0.460000  1453.623188   0.001376   8.214286
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:31 AM
+test14
+18 September 2019 09:00:31 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.460000   0.000000   0.460000  1453.623188   0.001376   8.214286
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:32 AM
+test15
+18 September 2019 09:00:32 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.440000   0.010000   0.450000  1485.925926   0.001346   8.035714
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:32 AM
+test16
+18 September 2019 09:00:32 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.450000   0.000000   0.450000  1485.925926   0.001346   8.035714
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:33 AM
+test17
+18 September 2019 09:00:33 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.450000   0.000000   0.450000  1485.925926   0.001346   8.035714
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:33 AM
+test18
+18 September 2019 09:00:33 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.450000   0.000000   0.450000  1485.925926   0.001346   8.035714
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:34 AM
+test19
+18 September 2019 09:00:34 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.450000   0.000000   0.450000  1485.925926   0.001346   8.035714
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:34 AM
+test20
+18 September 2019 09:00:34 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.460000   0.000000   0.460000  1453.623188   0.001376   8.214286
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:35 AM
+test21
+18 September 2019 09:00:35 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.450000   0.000000   0.450000  1485.925926   0.001346   8.035714
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:35 AM
+test22
+18 September 2019 09:00:35 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.450000   0.010000   0.460000  1453.623188   0.001376   8.214286
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:36 AM
+test23
+18 September 2019 09:00:36 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.450000   0.000000   0.450000  1485.925926   0.001346   8.035714
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:36 AM
+test24
+18 September 2019 09:00:36 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.450000   0.000000   0.450000  1485.925926   0.001346   8.035714
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:37 AM
+test25
+18 September 2019 09:00:37 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.450000   0.000000   0.450000  1485.925926   0.001346   8.035714
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:37 AM
+test26
+18 September 2019 09:00:37 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.480000   0.000000   0.480000  1393.055556   0.001436   8.571429
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:38 AM
+test27
+18 September 2019 09:00:38 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.450000   0.000000   0.450000  1485.925926   0.001346   8.035714
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:38 AM
+test28
+18 September 2019 09:00:38 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1000
+  Leading matrix dimension LDA = 1001
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+        6.491510        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   0.490000   0.000000   0.490000  1364.625850   0.001466   8.750000
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 09:00:39 AM

@@ -1,0 +1,17 @@
+PIN:MEMLATENCIES 1.0. 0x0
+#
+# DCACHE stats
+#
+# L1 Data Cache:
+# Load-Hits:             15533341   99.97%
+# Load-Misses:               4657    0.03%
+# Load-Accesses:         15537998  100.00%
+# 
+# Store-Hits:            18011976   99.99%
+# Store-Misses:              1120    0.01%
+# Store-Accesses:        18013096  100.00%
+# 
+# Total-Hits:            33545317   99.98%
+# Total-Misses:              5777    0.02%
+# Total-Accesses:        33551094  100.00%
+

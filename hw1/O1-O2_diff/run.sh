@@ -1,0 +1,32 @@
+#!/bin/bash
+
+echo test1; ./test1.out
+echo test2; ./test2.out
+echo test3; ./test3.out
+echo test4; ./test4.out
+echo test5; ./test5.out
+echo test6; ./test6.out
+echo test7; ./test7.out
+echo test8; ./test8.out
+echo test9; ./test9.out
+echo test10; ./test10.out
+echo test11; ./test11.out
+echo test12; ./test12.out
+echo test13; ./test13.out
+echo test14; ./test14.out
+echo test15; ./test15.out
+echo test16; ./test16.out
+echo test17; ./test17.out
+echo test18; ./test18.out
+echo test19; ./test19.out
+echo test20; ./test20.out
+echo test21; ./test21.out
+echo test22; ./test22.out
+echo test23; ./test23.out
+echo test24; ./test24.out
+echo test25; ./test25.out
+echo test26; ./test26.out
+echo test27; ./test27.out
+echo test28; ./test28.out
+echo test29; ./test29.out
+echo test30; ./test30.out

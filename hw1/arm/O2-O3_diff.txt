@@ -1,0 +1,17 @@
+24a25
+>   -fgcse-after-reload         		[enabled]
+32a34
+>   -finline-functions          		[enabled]
+36a39
+>   -fipa-cp-clone              		[enabled]
+59a63
+>   -fpredictive-commoning      		[enabled]
+106a111
+>   -ftree-loop-distribute-patterns 	[enabled]
+110a116,117
+>   -ftree-loop-vectorize       		[enabled]
+>   -ftree-partial-pre          		[enabled]
+116a124
+>   -ftree-slp-vectorize        		[enabled]
+122a131
+>   -funswitch-loops            		[enabled]

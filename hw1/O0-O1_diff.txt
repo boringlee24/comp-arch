@@ -1,0 +1,43 @@
+3a4
+>   -fcombine-stack-adjustments 		[enabled]
+4a6,7
+>   -fcompare-elim              		[enabled]
+>   -fcprop-registers           		[enabled]
+5a9
+>   -fdefer-pop                 		[enabled]
+8a13
+>   -fforward-propagate         		[enabled]
+9a15,17
+>   -fguess-branch-probability  		[enabled]
+>   -fif-conversion             		[enabled]
+>   -fif-conversion2            		[enabled]
+11a20,23
+>   -finline-functions-called-once 	[enabled]
+>   -fipa-profile               		[enabled]
+>   -fipa-pure-const            		[enabled]
+>   -fipa-reference             		[enabled]
+15a28
+>   -fmerge-constants           		[enabled]
+30a44
+>   -fshrink-wrap               		[enabled]
+32a47
+>   -fsplit-wide-types          		[enabled]
+35a51,53
+>   -ftree-bit-ccp              		[enabled]
+>   -ftree-ccp                  		[enabled]
+>   -ftree-ch                   		[enabled]
+36a55,56
+>   -ftree-copy-prop            		[enabled]
+>   -ftree-copyrename           		[enabled]
+37a58,60
+>   -ftree-dce                  		[enabled]
+>   -ftree-dominator-opts       		[enabled]
+>   -ftree-dse                  		[enabled]
+38a62
+>   -ftree-fre                  		[enabled]
+46a71
+>   -ftree-sink                 		[enabled]
+47a73,75
+>   -ftree-slsr                 		[enabled]
+>   -ftree-sra                  		[enabled]
+>   -ftree-ter                  		[enabled]

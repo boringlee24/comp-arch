@@ -1,0 +1,49 @@
+1a2,5
+>   -falign-functions           		[enabled]
+>   -falign-jumps               		[enabled]
+>   -falign-labels              		[enabled]
+>   -falign-loops               		[enabled]
+3a8
+>   -fcaller-saves              		[enabled]
+7a13,14
+>   -fcrossjumping              		[enabled]
+>   -fcse-follow-jumps          		[enabled]
+10a18
+>   -fdevirtualize              		[enabled]
+12a21
+>   -fexpensive-optimizations   		[enabled]
+13a23
+>   -fgcse                      		[enabled]
+15a26
+>   -fhoist-adjacent-loads      		[enabled]
+20a32,33
+>   -finline-small-functions    		[enabled]
+>   -fipa-cp                    		[enabled]
+23a37
+>   -fipa-sra                   		[enabled]
+29a44,46
+>   -foptimize-register-move    		[enabled]
+>   -foptimize-sibling-calls    		[enabled]
+>   -foptimize-strlen           		[enabled]
+30a48
+>   -fpeephole2                 		[enabled]
+31a50
+>   -fregmove                   		[enabled]
+32a52,54
+>   -freorder-blocks            		[enabled]
+>   -freorder-functions         		[enabled]
+>   -frerun-cse-after-loop      		[enabled]
+42a65
+>   -fschedule-insns2           		[enabled]
+47a71,72
+>   -fstrict-aliasing           		[enabled]
+>   -fthread-jumps              		[enabled]
+51a77
+>   -ftree-builtin-call-dce     		[enabled]
+67a94
+>   -ftree-pre                  		[enabled]
+74a102,103
+>   -ftree-switch-conversion    		[enabled]
+>   -ftree-tail-merge           		[enabled]
+76a106
+>   -ftree-vrp                  		[enabled]
